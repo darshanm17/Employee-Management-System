@@ -40,6 +40,11 @@ This Java program implements a simple console-based Employee Management System (
     ```
 
 2. Enter the number corresponding to your choice and follow the prompts.
+3. ![Screenshot (102)](https://github.com/darshanm17/Employee-Management-System/assets/116059183/5203fe8e-3d0c-4b44-8ad9-e87986601338)
+![Screenshot (103)](https://github.com/darshanm17/Employee-Management-System/assets/116059183/2b2406fc-97d8-40d5-a1f6-c17ae01fa527)
+![Screenshot (105)](https://github.com/darshanm17/Employee-Management-System/assets/116059183/a3e9b031-c0d6-4bf4-a0c7-75fce1e30cf6)
+![Screenshot (106)](https://github.com/darshanm17/Employee-Management-System/assets/116059183/03ba7577-5d34-4227-911f-4aa1014bcb5a)
+
 
 ## Classes and Methods
 
